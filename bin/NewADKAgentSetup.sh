@@ -8,8 +8,8 @@ source .venv/Scripts/activate
 pip install google-adk
 
 #go to ai studio create project and get api key 
-export GEMINI_API_KEY=AQ.Ab8RN6Jj3pi_BQUYrcQCLQX9FWbdw6z1NJbyFhIZacCWbOkbtQ
-export GOOGLE_API_KEY=AQ.Ab8RN6Jj3pi_BQUYrcQCLQX9FWbdw6z1NJbyFhIZacCWbOkbtQ
+export GEMINI_API_KEY=<APIKey>
+export GOOGLE_API_KEY=<APIKey>
 export GOOGLE_CLOUD_PROJECT=gen-lang-client-0667941054
 export GOOGLE_CLOUD_LOCATION=us-central1
 
