@@ -1,0 +1,225 @@
+JOSEPH A. RINALDI  
+Marlton, NJ  08053  | (215) 266-8225 | joseph.a.rinaldi@gmail.com
+linkedin.com/in/josepharinaldi | github.com/joe-rinaldi
+
+SUMMARY
+
+An analytical and forward-thinking software engineer with extensive experience in database design, object modeling, service-oriented and cloud architecture, application architecture, full software development life cycle, migrations, upgrades, training, quality control, conflict resolution, team building/coaching, process improvements, and strategic planning needs.  Architects IT solutions and spearheads initiatives that contribute to company growth and fulfill client needs. A results-oriented team player who adapts in constantly changing business environments to deliver on long-standing objectives.  
+
+TECHNICAL SKILLS
+
+       LANGUAGES: Java, JavaScript, TypeScript, Python, jQuery, Angular, C, C++, Oracle PL/SQL, Groovy 
+WEB SERVICES: Spring Boot, Spring MVC, RESTful (JAX-RS, JAX-WS), SOAP(JAX-WS, JAX-RPC, Apache Axis)
+CLOUD : OpenShift(Kubernetes) AWS, GCP, OCI, PCF, Azure
+APPLICATION SERVERS:  ,Tomcat, Oracle WebLogic, JBOSS 
+       AI TOOLS:  Github Copilot, Tachyon, AppMap, Kiro, Google AI Studio
+DATABASE: Sql Server, Oracle, Oracle Streams, MySQL, DB Modeling and Design, SQL Developer, Toad, DBartisan, Sybase	
+       OBSERVABILITY & MONITORING: Grafana, Splunk, Vista, SolarWinds, Wily, SevOne, Hobbit, Nagios, VisualVM,, JDK Tools 
+DEVOPS & CI/CD: GitHub Actions, Jenkins, Harness
+PERFORMANCE TOOLS:  jMeter, Blazemeter
+TESTING TOOLS, PlayWright, HyperExecute , Selenium
+       PROFILING TOOLS: Intellij ,Eclipse, NetBeans, Wily
+       MESSAGING/EVENT STREAMING: Apache Kafka, RabbitMQ, Amazon SQS/SNS
+SECURITY & GOVERNANCE:  OAuth2, HashiCorp Vault, Azure Key Vault, Hyper execute Secrets
+CHANGE MANAGEMENT TOOLS: Git, Github, JIRA, CONFULENCE, Gerrit, SVN, CVS, Rally, Doors, Remedy, Twiki, UCM, Quality Center, StarTeam, Object Cycle, MS SharePoint, MS OneNote, 
+       CONTINUOUS INTEGRATION TOOLS: Gradle, Maven, Ant, SonarQube, Cobertura, Find Bugs, Fortify 360, Checkstyle, JUnit, Jenkins
+       CISCO PRODUCTS: CNR, BAC, HP BAC,
+       OS: Linux (Ubuntu, Red Hat, Centos), Mac OS X,  Windows, Solaris, 
+OTHER: JBOSS drools, J2EE, Oracle Coherence, Oracle SOA Suite, Oracle Service Bus, JSP, Struts, Spring (Web Services, MVC, JDBC, WebFlow, AspectJ, Portlet), Netui Tag Library, Quartz, PageFlow, TIBCO, EJB, TopLink, XML, HTML, PowerBuilder, PFC, Netty, Google Protobufs, Guava, Jackson JSON, processor, Rabbit MQ, LifeRay, Portlets, Mockito, Apache Solr, , AJAX, Kafka, ALM Octane
+
+EXPERIENCE
+
+CAP GEMINI - SUBARU OF AMERICA, One Subaru Dr, Camden, NJ 08103
+TECH LEAD/JAVA ENGINEER, 2026/04 - PRESENT
+
+I worked on the Connected Vehicle(B2C) team. Worked on the Scrumptious Agile Team (Prod only issues) which consisted of approx. 6 developers and 10 QA members and the Ironman Agile Team (New Development) which consisted of 3 developers and 4 QA members. I’ve worked on the following applications. These include but are not limited to the following:
+
+CUSTOMER WEB PORTAL:
+Worked on production related fixes to Subscription Issues, Auth User Issues, Export Journal Timeout Issues, prevent malicious input injection as well as reviewing/approving all PR’s related to changes to that application
+
+Environment: jQuery 3.x, JavaScript, Spring 5.x (Core, MVC, JPA, Security, AOP …), Java 21, Apache (Http, Tomcat 10.x), Junit 4.x, Mockito, Open API(Swagger), Oracle DB, Oracle Cloud (OCI-C and OCI), Github
+MYSUBARU MOBILE APP 
+Worked on Subscription Changes, Charge Management/RCC Precondition Changes for EV vehicles, Auth User prod Issues, preventing malicious input injection, as well as reviewing/approving all PR’s related to changes to that application
+Environment: same as Customer Web Portal, also React Native (worked with developers)
+ADMIN PORTAL
+Worked on production fixes related to subscriptions (e.g double click subscription issues). Rebranding of vehicle info as well as reviewing/approving all PR’s related to changes to that application
+Environment: same as Customer Web Portal
+MICROSERVICES: 
+Worked on vehicle micro services related to production and new development for migrating services from SOAP to RESTful endpoints (i.e Repair orders), 
+Environment: same as Customer Web Portal, also Spring Boot, Spring MVC
+B2B SERVICES:
+Created design documents for 24MM changes Toyota to Subaru related feed jobs, Suppressing B2A20 DTC code in vehicles
+Environment: same as Customer Web Portal,  also Spring Batch
+
+
+
+WELLS FARGO, 194 South Wood Ave Iselin NJ 08830
+LEAD SOFTWARE ENGINEER, 2022/10 – 2026/03
+
+I work in the Credit Risk team/Risk Management Dept in Enterprise Technology. Team consists of 6 onsite employees and 4 offshore contractors. I’ve worked on the following applications. These include but are not limited to the following:
+
+Rules Management:
+Lead Engineer on building a custom rules based application. A rule is a custom SQL script maintained/executed by business so they can manage their own ETL workflows. Application includes workflows and entitlements to support multiple tenants. 
+
+Environment: Angular 17, Java 17, Spring 5.x (Core, MVC, JPA, Security, AOP …), Open API(Swagger), Sql Server, OpenShift, Apigee, Github, Github Copilot, AppMap, PlayWright, HyperExecute  
+
+Data Control Framework (DCF):
+Lead Engineer on building company wide Data Quality Control Framework to ensure company and federal compliance requirements. Worked on Onboarding Utilities, Automated Onboarding, email notifications and enhancements/fixes to public DCF API.
+
+Environment: Angular 15, Java 11, Python, Spring 5.x (Core, MVC, JPA, Security, AOP …), Open API(Swagger), Sql Server, PCF, Azure, Apigee, Github, Kafka, Github Copilot, Tachyon, Selenium
+
+
+SUBARU OF AMERICA, One Subaru Dr, Camden, NJ 08103
+LEAD SOFTWARE ENGINEER, 2014/12 - 2022/10
+
+I worked in the connected vehicle B2C team. The team consisted of ~20 onsite and ~30 offshore team members. I worked on the following applications. These include but are not limited to the following:
+
+CUSTOMER WEB PORTAL:
+Worked on creating/enhancing features like remote commands (remote start, remote unlock/lock, locate …), Subscriptions, Service scheduler, Service history, Recall history, 24-hour roadside assistance and much more…
+Environment: Bootstrap 4.x, Sass, jQuery 3.x, JavaScript, Spring 5.x (Core, MVC, JPA, Security, AOP …), Java 8, 11, Apache (Http, Tomcat 8.x,9.x), Junit 4.x, Mockito, Open API(Swagger), Oracle DB, Oracle Cloud (OCI-C and OCI), Github
+MYSUBARU MOBILE APP 
+Worked on creating/enhancing features like remote commands (remote start, remote unlock/lock, locate …), Subscriptions, Service scheduler, Service history, Recall history, 24-hour roadside assistance and much more…
+Environment: same as Customer Web Portal, also Cordova and jQuery Mobile 
+ADMIN PORTAL:
+Worked with admin portal team on shared functionality between CWP and APP. This included but not limited to Subscriptions (Aria), Remote Commands (Wireless Car, SXM), Recalls, Service Usage…  
+Environment: same as Customer Web Portal
+WEBADMIN:
+Created/enhanced web application used by help desk to research/fix issues with Gen0, Gen1(SXM) vehicles, also used by Subaru.com and external partners, Dealer.com, TireRack.com
+Environment:  same as Customer Web Portal
+IMPACT:
+Created/enhanced web application CMS website using by Marketing and Dealers to manage various email marketing campaigns including Share the Love campaign 
+Environment: same as Customer Web Portal
+SUBARU.COM:
+	Provide production and infrastructure support for application and offshore development team.
+Environment: same as Customer Web Portal, also AEM, Akamai
+
+MICROSERVICES: 
+Worked on dozens of micros services which include but not limited to the following: wireless car gen2 remote services, gen3 remote services, trip log gen3 service, POI service, wireless car audit service, maintenance schedule service, SXM subscription service, …
+Environment: same as Customer Web Portal, also Spring Boot, Spring MVC
+B2B SERVICES:
+Developed Several DDI Ingest Processes with External Partner Wireless Car 
+Environment: same as Customer Web Portal,  also Spring Batch, Apache ignite
+
+
+Worked on creation/maintenance/enhancements on the following integrations with the above applications. These include but are not limited to the following:
+
+EXTERNAL INTEGRATION  PROVIDERS: 
+Google(Maps), Mapbox(Maps), TomTom(Maps), Sirius Radio(TSP), Wireless Car(TSP), AT&T(Wi-Fi), SBR(Subaru Corporate), Xtime(Scheduling), Affinitiv(Scheduling), Adobe(Campaign Manager, Marketing Cloud, Adobe Analytics), Google Analytics(GA3, GA4), Aria(Billing And Subscriptions), Trillium(Data Cleanse), Agero(Telematics, RSA, Swoop), Vertex(Tax Engine), SonarQube, OCI-C Cloud, OCI Cloud, French Canadian Internationalization,  Dealer Info (Dealer.com)
+
+INTERNAL INTEGRATION PROVIDERS: 
+Subarunet(Dealer System), CRM(Siebel), CRM(Microsoft Dynamics), STARS(Vehicle), DDMS(Dealer Data Management), EBS(Oracle Financials), Bi/Analytics
+
+COMCAST, 1717 Arch St, Philadelphia PA
+SENIOR SOFTWARE ENGINEER, 2007/12 – 2014/12
+
+Served on the Compass team in the product engineering department; responsible for design, enhancement, and maintenance of systems related to VOD menu and title assets. 
+
+* MENU MANAGEMENT SYSTEM (MMS): MMS is the current production legacy web application to maintain and publish the VOD Menu hierarchy for all non X1 platform set top boxes. Changes included fixing defects and adding sort functionality to menus, MMS Webapp, MMS Database (Oracle Database, PL/SQL packages/stored procedures) as well as all affected downstream systems (CU UNU sever, Title Server, UNU Server). 
+
+Environment: Java, JSP, Jetty, Hibernate, Apache Commons, Mockito, Spring Webflow, Joda Time, Oracle DB
+
+* CU UNU SERVER: Is a collection of web services dedicated to creating and updating data in the UNU database. Added/updated services related to updating Restrictions for Titles and Menu Items, Creation, Deletion and Updating Menu Items and Ingesting additional Title Attributes related to pre ordering of titles by providers. 
+
+Environment: Java, Netty, RESTFul Web services, Google Protobufs, Guava, Oracle DB
+
+* TITLE SERVER: Is an immutable custom cache of all titles available in VOD catalog. On start up all titles are loaded into memory. Titles are kept up to date by 1 single writer using Rabbit MQ. I made changes related to sorting of titles, restrictions and pre orders. 
+
+Environment: Java, Netty, RESTFul Web services, Google Protobufs, Oracle DB. 
+
+* UNU SERVER: Is a collection of API web services we make available to all our external systems that need VOD information (mainly set top boxes). Made changes related to sorting of titles.
+
+Environment: Java, Netty, RESTFul Web services, Google Protobufs, Oracle DB
+
+* MANUAL FOLDER POPULATION  (MFP): MFP is a collection 5 portlets working together to add/remove titles to a folder and batch up these actions for later execution in a shopping cart. Created an additional “Folder Maintenance” portlet to add/remove/update/sort menu items. Additional additional bundle related fields to Solr index and query 
+
+		       Environment: Java, Spring (Portlets MVC, Web services, JDBC), Jquery 1.9., AJAX,  JavaScript, Apache Solr.
+
+* MENU ITEM MAINTENANCE PLUS (MIMPLUS): MimPlus was the next generation Menu Maintenance webapp that had all the functionality of MMS and MFP was easier to use and had a more intuitive UI (i.e. very much like dropbox). Created the prototype, worked with business on finalizing the UI and flow of the app. Ported ~80% of the existing functionality over from MMS and MFP. Worked with 2 other developers with porting over additional functionality. Implemented create/update/delete/sort menu items web services in CU UNU Server.   
+
+Environment: Java, Spring (JDBC, MVC), Jquery 1.11.x, Bootstrap 3.x, AJAX
+
+* DIGITAL LOCKER ADMIN TOOL: The Digital Locker Admin Tool was used by level 2 support to trouble shoot common issues they had with the Digital Locker. Basic functionality included providing health status information for all locker instances and connected gateways and providing a means to query digital assets across any/all lockers instances for status and detailed information. Created the project and prototype, implemented the displaying of health status for all locker instances/gateways  by making  RESTFul web service healthcheck calls in multithreaded way by using java concurrent package (i.e java Futures and ExectorService). Also implemented a smart pass thru locker request handler (i.e. if a request fails or an instance/gateway is down or not healthy, route to next healthy instance/gateway).
+
+Environment: Spark, Jetty, AngularJS,  Java, Spring (Web Services,  JDBC)
+
+* VODTICKER: The VODTicker webapp was a single page dashboard app that displayed which titles/folders where popular in the last 30 minutes, hour, day and week and year. Worked with team on data model design and creation of the stored procedures, and learning new technologies (i.e.  AngularJS, D3, Spark, Storm).
+
+Environment: Spark, Jetty, AngularJS, D3, Bootstrap 3.x, Java, Spring JDBC, Apache Solr, Guava, Joda Time, Storm, Oracle DB
+
+* LIFERAY PORTLET CONVERSION: Mentored Junior Developer in converting Portlets currently running in Liferay 6.0.6 (Production version) to the latest liferay version (Liferay 6.2 ga2) including identifying all affected portlets (approx ~10 custom portlets), installing/configuring the latest liferay for local testing, creating test plans for new environment, documenting regression and smoke testing in new environment, and creating defects on any issues found and working with him on finding a solution to the defect(s). 
+
+Environment: Liferay 6.0.6 – 6.2, Tomcat 7.x, Confulence
+
+
+Senior Application and Systems Development Engineer, 
+
+Served on device infrastructure team in network engineering department, responsible for design, enhancement, and maintenance of core provisioning systems.  Worked closely with team of infrastructure, integration, and software engineers.  
+
+    Acceptable Use Policy Management (AUPM)
+* DEVELOPMENT:  Designed multiple systems to support legal requirements of Digital Millennium Copyright Act (DMCA) and corporate acceptable use policy.
+* AUPMDMCA:  Developed system to process infringement emails from copyright holders, such as Recording Industry Association of America and Motion Picture Association of America.  Designed application to handle roughly 14,000,000 emails per year and enforce actions outlined in AUPM policy.  Implemented changes to separate infringements based on P2P and non-P2P.  Updated XML parsing logic and rules related to changes in ACNS standards.  Improved performance of application by 1,800% by optimizing hotspots using Java Visual VM, caching data, using Spring  DefaultMessageListenerContainer,  using multiple threads and making application thread safe.  Reengineered out of Oracle BPM into servlets, using Quartz jobs.  Ensured improved performance, reduced BPM configuration and administration, and decreased load on WebLogic-managed servers.
+* ABUSEAPP:   Instrumental in design and worked with contractor in implementation of application to process abuse and usage emails outlined in corporate acceptable use policy.  Configured program to work with EmailStageApp and partnered with team in designing and implementing custom rules-based engine used in both front-end GUI development and back-end interpretation of rules.
+* EMAILSTAGEAPP:  Created and implemented application to process all emails in AUPM, including popping email from pop3 server, demining, removing QP encoding, and parsing emails for relevant infringement information.  Designed program to save data and put processed email on JMS queue for further downstream processing by AUPMDMCA and AbuseApp.  Worked on replacement of email popping with RESTFul web service using ACNS xml.
+* GAREECONSOLE:  Designed custom console/portal web application used by customer service representatives to query and configure all AUPM systems.  Enhanced policy configuration pages for additional segments of business, made changes to user maintenance, changed password rules and encryption of password information, and built DOLLEE white listing page for customers erroneously flagged for stealing service.  Added multiple levels of user authentication and authorization for active directory and database authorization.  Created bulk command line tool and web page to perform multiple additions and removals of browser notifications to users via web service calls.  Added database-driven menu authorization based on user group settings stored as regualr expressions in database. 
+* CASE STATUS SERVICE:  Developed JAX-WS web service, handling all communication between Comcast AUPM systems and AAA external partner to remediate outstanding DMCA violations.  Sent list of infringement email details to AAA to start appeals process, providing means for AAA to notify Comcast of appeals decisions.  Designed operations and created data model.  Added ability to apply persistent browser notification upon appeal denial.  Worked closely with contractor to resolve production issues associated with initial release, such as configuration and data alignment issues.
+* PROVISION MITIGATION SERVICE:  Designed JAX-WS web service as wrapper for calling other web services to add or remove port blocks based on protocol, direction and port, QOS resources, and abuse suspensions.  Reengineered web service out of BPM into JAX-WS.  Created business service and proxy for new service on Oracle Service Bus for other consumers, using proprietary ESP guidelines.  Improved error logging. 
+* AJMGRWEB:  Created application to perform cleanup work for all AUPM systems, reengineering from BPM into web application using quartz jobs, adding file cleanup of DMCA emails after certain length of time, and cleaning up tables based on age of data. 
+
+CODE HARMONIZATION AND CONTINUOUS INTEGRATION
+
+* Created standards, procedures, and automated tools to improve quality of Java and C applications.  Documented coding standards, evaluated multiple tools, and recommended best-of-breed tools.  Ensured automated running of tools and building of applications using cruise control upon check-in of code.  Worked with team to convert all applications, documenting changes on department wiki and serving as resource to help other teams with new standards. 
+
+    Lease Manager
+* DEVELOPMENT:  Served as lead developer and coordinated efforts of two other contractor developers.  Created 90% of system and rewrote final 10% to fit with object framework.  Designed system responsible for collecting ipv4 and ipv6 lease information to satisfy legal requirements for over 20 million cable modems connected to the network nationwide.  Delivered high-transaction, high-availability, distributed application running on 90 clients and 24 servers. 
+* PITCHER NETWORK CAPTURE COMPONENT:  Developed C prototype using pcap running in promiscuous mode to capture all network traffic as possible replacement for CNR extension.  Enhanced tool to capture DHCP network traffic and modify and replay captured pcap files.  Designed product used by QA to test certain scenarios and stress-test pitcher extension.
+* PITCHER CNR EXTENSION:  Worked on Solaris shared library written in C to work with Cisco CNR 7.x to collect and provide DHCP lease information to catcher.
+* DHCP PARSER SHARED LIBRARY:  Created custom ipv4 and ipv6 dhcp parser shared library in C.  Borrowed and modified code from Open Source Wireshark to parse all TLVs in DHCP packet and return key value list of DHCP attributes.  Used java JNI to call shared library to make it available to other java components.
+* CATCHER COMPONENT:  Created high-availability, high-transaction, fault-tolerant, and multi-threaded J2SE daemon application to insert parsed DHCP data into Oracle database.
+* AGENT COMPONENT:  Created five J2SE Java daemon processes that populated 1 aggregate table for final consumption for legal authorities. 
+* DBCHECK OPERATIONS TOOL:  created tool to ensure all boxes with installed lease manager conformed to standards.  Ran 30 test cases against nearly 100 hosts on a daily basis in all environments (qa, perf, prod). 
+* CNR COMPARE TOOL:  Wrote CNR compare tool to ensure info in lease manager matched DHCP data in Cisco CNR sleepy cat database. 
+* CUSTOM CLASS LIBRARY:  Built common library used by all Java components to support DHCP ipv4/ipv6 parsing.  Designed program to run external UNIX commands and encrypt sensitive data in properties file.  Used Oracle libraries for connection pooling, monitored integration for hobbit, and created mbeans for wily and Nagios monitoring through JMX.  Oversaw ipv6 prefix delegation ip math class library loaded into oracle 11g for SQL querying.
+* DHCP TESTING TOOLS:  Wrote various Perl scripts to send traffic to CNR for testing pitcher functionality.  Used ix2x network appliance extensively for stress testing.
+    
+    Enhanced BAC Publisher
+* DEVELOPMENT:  Developed extensible platform based on Cisco’s BAC software product used to rapidly support advent of new services, devices, and business requirements without need to develop dedicated or one-off solutions.  Assisted in design of new system, building prototype, database model, and common code framework shared across multiple products, such as encryption and database layer.  Partnered with lead developer to create standard coding tools, including Eclipse and JUnit.
+    
+    DOLLEE
+* DEVELOPMENT:  Designed DOCSIS Legitimate Location Enforcement Engine (DOLLEE) to detect and mitigate “cloned” cable modems to reduce theft of service by leveraging and extending device provisioning platform to provide automated real-time system noting instances of cable modem cloning nationwide, triggering notifications and mitigation mechanisms. 
+* EXTENSION:  Partnered with Cisco consultant in development of extension, performing code reviews.  Developed standards around development and deployment of CNR extensions tools, frameworks, and shared libraries. Wrote DOLLEE white listing SSL web service and client for Mac addresses, removing Macs from list and providing details. 
+    
+
+PHH MORTGAGE, Mount Laurel, New Jersey
+Senior J2EE Developer and Analyst, 2000/12 – 2007/12
+
+* FRONTEND DEVELOPMENT:  Supported and enhanced IDESK integrated enterprise EAI (TIBCO) web-based frontend portal application supporting all mission-critical legacy systems. Supported and enhanced WAVE task scheduling program, accounting, loan summary portal, and other applications within IDESK.  Implemented new applications in portal, including LoanSaver process to save cancelled loans and special instructions system to maintain special processing information for each business source.  Implemented both systems, using WebLogic Pageflow framework and EJB 2.0 on WebLogic 8.1.
+* PROCESS AUTOMATION:  Served as key player in all phases of software lifecycle for AutoCounselor assignment system used for automatically assigning counselors to loans based on data-driven rule engine covering such factors as availability, capacity, and skill set.  Designed and implemented JSP and JavaScript/HTML web-based frontend, EJB 2.0, and WebLogic 6.0 middle-tier services used by web and legacy systems, and Oracle 8.0 backend data model.
+* PHONE SYSTEM IMPLEMENTATION:  Integrated Avaya CentreVu CTI into all mission-critical client server systems, including PHHORCE and CASH using TSAPI into new phone book application to place outgoing calls at click of a button.  Developed program to detect incoming calls with business, client, and agent information, and place outgoing calls to borrowers, agents, clients.  Converted intranet phone book application into Strut, JSP solution.
+* PHHORCE PROJECT:  Provided extensive technical leadership, training, support, and knowledge transfer of business-critical, in-house PHHORCE application to HPS offshore partner, both onsite for six to eight months, and offsite in Bangalore, India for one month.  Implemented PHHORCE n-tier PowerBuilder mortgage origination application to serve 1,500 users for qualifying customers interested in mortgaging, buying, or refinancing property.  Developed system to help users complete applications, order credit reports, receive automatic underwriting approval, and produce documents, including pre-approval letters, good faith estimates, denial/withdraw letters, and surveys.  Enhanced PHHORCE application, adding risk-based pricing, piggy-backed loan processing, closing costs mortgage insurance redesign, closing agent system redesign, and automated underwriting system modifications.  Integrated new Lucent CentreVu computer telephony CRM product.  
+
+EDUCATION
+
+       ROCHESTER INSTITUTE OF TECHNOLOGY, Rochester, New York
+       B.S., Computer Science
+
+CERTIFICATION AND PERSONAL DEVELOPMENT
+
+AWS
+Cloud Practitioner 
+Developer Associate 
+GCP	
+	Gemini Enterprise Agent Development (Google Skills Virtual)
+       Gemini Enterprise Deployment (Google Skills Virtual)
+Microsoft Azure
+       Azure DP-900 Certification
+Sun Microsystems
+       Architecting and Designing J2EE Applications
+       Developing J2EE-Compliant Applications
+       Java Programming Language
+Additional Training
+       Enterprise Integration with Spring
+       Core Spring
+       Oracle BPM
+       Oracle WebLogic Administration
+       JBOSS Drools
+       DOCSIS / IPv6 
